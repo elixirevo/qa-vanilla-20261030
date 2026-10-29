@@ -1,6 +1,13 @@
 {
   "schemaVersion": 1,
   "sourceLocale": "ko",
-  "categories": [],
+  "categories": [
+    {
+      "id": "category-ab5aa97074c454a0632057e7",
+      "source": "Notes",
+      "labels": {},
+      "aliases": []
+    }
+  ],
   "tags": []
 }
